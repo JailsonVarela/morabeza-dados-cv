@@ -35,4 +35,4 @@ python -m morabeza.resumo data/vendas_amostra.csv
 ```
 
 Repositório do Jailson
-Ilha a visitar: São Vicente
+Ilha a visitar: São Nicolau
