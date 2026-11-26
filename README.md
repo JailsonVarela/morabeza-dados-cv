@@ -35,4 +35,5 @@ python -m morabeza.resumo data/vendas_amostra.csv
 ```
 
 Repositório do Jailson
+
 Ilha a visitar: Fogo
