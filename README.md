@@ -20,13 +20,13 @@ pip install -e ".[dev]"
 pytest -v
 ```
 
-## Obter os ficheiros de uma sessão nova
+<!--## Obter os ficheiros de uma sessão nova
 
 No início de cada sessão (a partir da Sessão 2), no terminal:
 
 ```bash
 bash obter_sessao.sh 2      # troca 2 pelo número da sessão
-```
+```-->
 
 ## Correr o resumo de vendas
 
